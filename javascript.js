@@ -20,3 +20,10 @@ var toYourFace = {
 	number: 999-606-9832,
 	email: "martel1983@yahoo.com"
 }
+
+var disco = {
+	name: "Martel",
+	lastN: "RRrSS",
+	number: 999-6e3-9832,
+	email: "martel1983@yahoo.com"
+}
