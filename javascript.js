@@ -6,3 +6,10 @@ var tableArray = [
     phoneNumber: "000-000-0000"
   }
 ];
+ 
+var inYourFace = {
+	name: "Navita",
+	lastN: "Dabicharran",
+	number: 999-999-9832,
+	email: "martel1983@yahoo.com"
+}
