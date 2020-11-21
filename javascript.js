@@ -13,3 +13,10 @@ var inYourFace = {
 	number: 999-999-9832,
 	email: "martel1983@yahoo.com"
 }
+
+var toYourFace = {
+	name: "Martel",
+	lastN: "Charran",
+	number: 999-606-9832,
+	email: "martel1983@yahoo.com"
+}
